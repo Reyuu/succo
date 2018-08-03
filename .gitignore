@@ -78,4 +78,8 @@ typings/
 
 package-lock.json
 
+cert/
+cert.crt
+cert.key
+
 # End of https://www.gitignore.io/api/node
